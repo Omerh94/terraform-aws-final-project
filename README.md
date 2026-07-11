@@ -27,4 +27,4 @@ The project was developed as part of the DevOps course at Real Time College.
 
 ## Screenshots
 
-Project screenshots are available in the `screenshots` folder.
+Project screenshots are available in the [screenshots](./screenshots) folder.

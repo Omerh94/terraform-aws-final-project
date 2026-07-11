@@ -24,3 +24,7 @@ The project includes:
 - Remote State stored in Amazon S3
 
 The project was developed as part of the DevOps course at Real Time College.
+
+## Screenshots
+
+Project screenshots are available in the `screenshots` folder.
